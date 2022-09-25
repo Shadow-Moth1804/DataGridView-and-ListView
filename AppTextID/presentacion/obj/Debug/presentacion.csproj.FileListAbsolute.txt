@@ -1,0 +1,11 @@
+C:\Users\jesus\source\repos\AppTextID\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\jesus\source\repos\AppTextID\presentacion\bin\Debug\presentacion.exe
+C:\Users\jesus\source\repos\AppTextID\presentacion\bin\Debug\presentacion.pdb
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.exe
+C:\Users\jesus\source\repos\AppTextID\presentacion\obj\Debug\presentacion.pdb
